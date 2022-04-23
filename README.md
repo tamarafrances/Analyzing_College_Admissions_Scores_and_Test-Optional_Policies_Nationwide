@@ -1,4 +1,3 @@
-# Project 1
 # Analyzing College Admissions Scores and Test-Optional Policies Nationwide
 
 # Tamara Frances
