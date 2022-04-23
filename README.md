@@ -7,7 +7,7 @@
 
 ### Objective
 
-We were presented with a list of SAT and ACT test related datasets. Our goal was to identify and investigate potential trends and relationships with the provided data and outside data sources in order to address a problem statement of our choosing.
+Presented with a list of SAT and ACT test related datasets, my goal was to identify and investigate potential trends and relationships with the provided data and outside data sources in order to address a problem statement of our choosing.
 <br>
 <br>
 
