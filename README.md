@@ -1,4 +1,4 @@
-# Analyzing College Admissions Scores and Test-Optional Policies Nationwide
+# Analyzing SAT and ACT Scores and Test-Optional Policies Nationwide
 
 # Tamara Frances
 <br>
